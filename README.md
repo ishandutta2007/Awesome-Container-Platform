@@ -58,9 +58,9 @@ Below is a comparison of leading enterprise SaaS and managed container platforms
 
 ## 📦 Open-Source GitHub Projects
 
-Curated list of top open-source container platforms, Kubernetes distributions, and control plane tools, sorted by **GitHub Star Count** (descending).
+Curated list of top open-source container platforms, Kubernetes distributions, and control plane tools, sorted by **GitHub Stars_Count** (descending).
 
-| Project 🛠️ | Stars ⭐️ | Description 📝 |
+| Project 🛠️ | GitHub_Stars ⭐️ | Description 📝 |
 | :--- | :--- | :--- |
 | **[Kubernetes](https://github.com/kubernetes/kubernetes)** | [<img src="https://img.shields.io/github/stars/kubernetes/kubernetes?style=social&color=white" alt="Kubernetes Stars"/>](https://github.com/kubernetes/kubernetes/stargazers) | The foundational open-source container orchestration engine and global standard. ☸️ |
 | **[k3s](https://github.com/k3s-io/k3s)** | [<img src="https://img.shields.io/github/stars/k3s-io/k3s?style=social&color=white" alt="k3s Stars"/>](https://github.com/k3s-io/k3s/stargazers) | Lightweight certified Kubernetes distribution built for IoT, edge, and resource-constrained nodes. 🏎️ |
@@ -86,7 +86,7 @@ We welcome contributions from platform engineers, SREs, and cloud-native enthusi
 
 1. **Fork** this repository 🍴
 2. **Add or update** entries in `README.md` following the exact table structure.
-3. Ensure entries include accurate pricing details, free tier limits, or star counts.
+3. Ensure entries include accurate pricing details, free tier limits, or Stars_Counts.
 4. **Submit a Pull Request** 🚀 with a brief explanation of the added platform.
 
 ---
